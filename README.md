@@ -31,6 +31,8 @@ Royal Holloway, University of London
 - Implemented dynamic flight search and filtering by origin, destination and departure date, allowing users to efficiently retrieve relevant flight options.
 - Engineered reservation workflows supporting adult and child bookings, connecting user selections with database operations to create and manage reservations.
 
+![Project Demo](./demo.gif)
+
 ### 🏢 Corporate Management Simulator
 **C# | Unity | MySQL**
 
