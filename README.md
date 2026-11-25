@@ -1,5 +1,5 @@
 
-# Hi, I'm Muhsin Chaudhary 👋
+# Muhsin Chaudhary 
 
 🎓 **Third-Year BSc Computer Science & Mathematics Student** at Royal Holloway, University of London.
 
