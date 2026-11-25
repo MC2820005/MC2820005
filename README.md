@@ -42,6 +42,8 @@ Royal Holloway, University of London
 - Built a financial analytics dashboard with graphical revenue visualisation, enabling users to monitor monthly revenue, operating costs and overall business performance.
 - Implemented an in-game calendar, time-progression and ranking system to simulate business cycles, track management decisions and evaluate business growth.
 
+![Corporate Management Simulator](<Corporate Management Simulator (1).gif>)
+
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Muhsin Chaudhary](https://www.linkedin.com/in/muhsin-chaudhary-3ba389286)
